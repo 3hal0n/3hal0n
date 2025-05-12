@@ -1,23 +1,22 @@
 # Hi there 👋, I'm Shalon Fernando
 
-Passionate Developer | Tech Explorer | Problem Solver  
+Software Engineer | Full-Stack Engineer | AI Explorer
 SLIIT undergraduate | BSc IT (Hons) - Software Engineering  
 
 ---
 
 ## 🧠 About Me
 
-- Currently working on full-stack web projects and Android apps 
-- Tech Stack: Java, Kotlin, Python, PHP, MERN, HTML/CSS  
+- Full-stack developer building web, mobile, and intelligent systems
+- Tech Stack: Spring boot, Java, Kotlin, Python, PHP, MERN, HTML/CSS  
 - Always learning and building  
 - Reach me at: [shalonfernando52@gmail.com](mailto:shalonfernando52@gmail.com)
 
 ---
-🚀 Software Engineering Undergraduate | SLIIT | AI Enthusiast
 
-I'm a passionate software engineering undergraduate at SLIIT (BSc (Hons) in IT - Specializing in Software Engineering), dedicated to building smart, impactful solutions using technology. With hands-on experience in full-stack development (Java, Kotlin, Python, PHP, MERN, HTML/CSS) and a growing focus on Artificial Intelligence, I enjoy turning ideas into working products — from mobile apps to intelligent systems. I’m currently exploring AI-powered assistants, chatbots, and predictive models.
+I'm a passionate software engineering undergraduate dedicated to crafting meaningful digital experiences. I specialize in fullstack web and mobile development, and I’m actively diving into the world of Artificial Intelligence, from smart assistants to predictive systems. I believe in building tech that solves real world problems, while always staying curious and open to learning. I’m currently exploring AI powered assistants, chatbots, and predictive models.
 
-🧠 Learning AI | 💻 Building with Code | 🌍 Creating for Impact
+---
 
 ## 🛠️ Languages and Tools
 

@@ -14,7 +14,7 @@ SLIIT undergraduate | BSc IT (Hons) - Software Engineering
 
 ---
 
-I'm a passionate software engineering undergraduate dedicated to crafting meaningful digital experiences. I specialize in fullstack web and mobile development, and I’m actively diving into the world of Artificial Intelligence, from smart assistants to predictive systems. I believe in building tech that solves real world problems, while always staying curious and open to learning. I’m currently exploring AI powered assistants, chatbots, and predictive models.
+I specialize in fullstack web and mobile development, and I’m actively diving into the world of Artificial Intelligence, from smart assistants to predictive systems. I believe in building tech that solves real world problems, while always staying curious and open to learning. I’m currently exploring AI powered assistants, chatbots, and predictive models.
 
 ---
 

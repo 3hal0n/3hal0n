@@ -2,7 +2,6 @@
 
 Software Engineer | Full-Stack Engineer | AI Explorer
 SLIIT undergraduate | BSc IT (Hons) - Software Engineering  
-[![Watch GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHE3NHd2cGwzMTVsd3hiM3Z3NG5oZWprZWthaG91NThqZTNyb2J3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btZ3T6y3JTmjg4w/giphy.gif)](https://your-project-link.com)
 
 ---
 

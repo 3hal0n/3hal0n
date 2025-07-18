@@ -4,7 +4,11 @@ Software Engineer | Full-Stack Engineer | AI Explorer
 SLIIT undergraduate | BSc IT (Hons) - Software Engineering  
 
 ---
+# Check out my Portfolio
 
+https://shalonfernando.vercel.app/
+
+---
 ## 🧠 About Me
 
 - Full-stack developer building web, mobile, and intelligent systems

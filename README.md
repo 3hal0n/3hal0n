@@ -5,7 +5,7 @@ SLIIT undergraduate | BSc IT (Hons) - Software Engineering
 
 ---
 # Check out my Portfolio
-
+Im still working on it. Due to large 3d model, video sizes its currently faulty. 
 https://shalonfernando.vercel.app/
 
 ---

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Assets/banner.png" alt="Banner" />
+</p>
+
 # Hi there 👋, I'm Shalon Fernando
 
 Software Engineer | Full-Stack Engineer | AI Explorer

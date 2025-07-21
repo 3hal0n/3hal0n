@@ -52,18 +52,6 @@ I specialize in fullstack web and mobile development, and I’m actively diving 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3hal0n&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </div>
 
-## 📅 Isometric Commit Calendar
 
-<div align="center">
-  <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Isometric commit calendar" width="90%" />
-</div>
-
-## 🐍 GitHub Snake Game
-
-<div align="center">
-  <img src="https://github.com/3hal0n/3hal0n/blob/output/github-snake-dark.svg?palette=github-dark" alt="GitHub Snake Game" width="90%" />
-</div>
-
----
 
 

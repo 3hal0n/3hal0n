@@ -9,8 +9,8 @@ SLIIT undergraduate | BSc IT (Hons) - Software Engineering
 
 ---
 # Check out my Portfolio
-Im still working on it. Due to large 3d model, video sizes its currently faulty. 
-https://shalonfernando.vercel.app/
+Im still working on it. Due to large 3d models its currently a bit slow. Give it 10 seconds to load fully. 
+https://shalon.vercel.app/
 
 ---
 ## 🧠 About Me

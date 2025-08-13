@@ -8,8 +8,8 @@ Software Engineer | Full-Stack Engineer | AI Explorer
 SLIIT undergraduate | BSc IT (Hons) - Software Engineering  
 
 ---
-# Check out my Portfolio
-Im still working on it. Due to large 3d models its currently a bit slow. Give it 10 seconds to load fully. 
+# Check out my space themed Portfolio
+Its mobile responsive but best for desktop. Still working on the mobile responsiveness.
 https://shalon.vercel.app/
 
 ---

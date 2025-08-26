@@ -1,7 +1,9 @@
 # Hi there, I'm Shalon Fernando
 
 Software Engineer | Full-Stack Engineer | AI Explorer
+<br />
 3rd Year 1st Semester undergraduate at SLIIT
+<br />
 B.Sc. Hons. in Information Technology Specializing in Software Engineering 
 
 ---

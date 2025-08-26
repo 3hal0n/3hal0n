@@ -12,20 +12,27 @@ B.Sc. Hons. in Information Technology Specializing in Software Engineering
 
 # Check out my space themed Portfolio
 Its mobile responsive but best for desktop. Still working on the mobile responsiveness.
+<img src="./Assets/logo.png">
 https://shalon.vercel.app/
-# Check out my space themed Portfolio
-Its mobile responsive but best for desktop. Still working on the mobile responsiveness.
-https://shalon.vercel.app/
+
+---
+
 ## 🧠 About Me
 
 - Full-stack developer building web, mobile, and intelligent systems
 - Tech Stack: Spring boot, Java, Kotlin, Python, PHP, MERN, HTML/CSS  
 - Always learning and building  
 - Reach me at: [shalonfernando52@gmail.com](mailto:shalonfernando52@gmail.com)
+- Check out my cv [View my Resume (PDF)](./Assets/ShalonFernandoResume.pdf)
 
 ---
 
-I specialize in fullstack web and mobile development, and I’m actively diving into the world of Artificial Intelligence, from smart assistants to predictive systems. I believe in building tech that solves real world problems, while always staying curious and open to learning. I’m currently exploring AI powered assistants, chatbots, and predictive models.
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=3hal0n&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3hal0n&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+</div>
 
 ---
 
@@ -48,12 +55,7 @@ I specialize in fullstack web and mobile development, and I’m actively diving 
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3hal0n&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3hal0n&layout=compact&theme=github_dark&hide_border=true" width="48%" />
-</div>
 
 
 

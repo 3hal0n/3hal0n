@@ -2,14 +2,15 @@
   <img src="./Assets/banner.png" alt="Banner" />
 </p>
 
-# Hi there 👋, I'm Shalon Fernando
+# Hi there, I'm Shalon Fernando
 
 Software Engineer | Full-Stack Engineer | AI Explorer
-SLIIT undergraduate | BSc IT (Hons) - Software Engineering  
+3rd Year 1st Semester undergraduate at SLIIT
+B.Sc. Hons. in Information Technology Specializing in Software Engineering 
 
 ---
 # Check out my Portfolio
-Im still working on it. Due to large 3d model, video sizes its currently faulty. 
+<img src="./Assets/logo.png" alt="logo" />
 https://shalonfernando.vercel.app/
 
 ---

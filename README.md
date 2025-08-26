@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./Assets/new-banner.png" alt="Banner" width="100%" />
+</p>
 # Hi there, I'm Shalon Fernando
 
 Software Engineer | Full-Stack Engineer | AI Explorer
@@ -8,7 +11,6 @@ B.Sc. Hons. in Information Technology Specializing in Software Engineering
 
 # Check out my space themed Portfolio
 Its mobile responsive but best for desktop. Still working on the mobile responsiveness.
-<img src="./Assets/logo.png" width="80" height="80">
 https://shalon.vercel.app/
 
 ---

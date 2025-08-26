@@ -8,7 +8,9 @@ B.Sc. Hons. in Information Technology Specializing in Software Engineering
 
 # Check out my space themed Portfolio
 <p align="center">
-  [![Portfolio](./Assets/new-banner.png)](https://shalon.vercel.app/)
+  <a href="https://shalon.vercel.app/">
+    <img src="./Assets/new-banner.png" alt="Portfolio Banner" width="100%" />
+  </a>
 </p>
 
 ---

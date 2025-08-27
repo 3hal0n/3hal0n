@@ -11,6 +11,7 @@ B.Sc. Hons. in Information Technology Specializing in Software Engineering
     <img src="./Assets/new-banner.png" alt="Portfolio Banner" width="100%" />
   </a>
 </p>
+P.S Click on the image to navigate to my portfolio
 
 ---
 

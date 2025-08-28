@@ -53,6 +53,7 @@ P.S Click on the image to navigate to my portfolio
 
 ---
 
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
 
 

@@ -28,8 +28,8 @@ P.S. Tap the image to view my full portfolio
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3hal0n&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3hal0n&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=3hal0n&show_icons=true&theme=github_dark&hide_border=true&token=${{ secrets.GH_STATS_TOKEN }}" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3hal0n&layout=compact&theme=github_dark&hide_border=true&token=${{ secrets.GH_STATS_TOKEN }}" width="48%" />
 </div>
 
 ---

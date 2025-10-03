@@ -58,7 +58,7 @@ P.S. Tap the image to view my full portfolio
 ---
 
 ### Latest Blog posts:
-- <a target="_blank" href="https://medium.com/@shalonfernando52/wso2-api-manager-solving-api-calamity-in-modern-enterprises-6fe457001cb0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shalonfernando52/0" alt="Recent Article 0"></a>
+- <a target="_blank" href="https://medium.com/@shalonfernando52/wso2-api-manager-solving-api-calamity-in-modern-enterprises-6fe457001cb0"><img src="Assets/0.jpg" alt="Recent Article 0"></a>
 
 
 

@@ -58,7 +58,25 @@ P.S. Tap the image to view my full portfolio
 ---
 
 ### Latest Blog posts:
-- <a target="_blank" href="https://medium.com/@shalonfernando52/wso2-api-manager-solving-api-calamity-in-modern-enterprises-6fe457001cb0"><img src="Assets/0.jpg" alt="Recent Article 0"></a>
+
+<div style="margin-top:8px;">
+  <table style="width:100%; border-collapse:collapse;">
+    <tr>
+      <td style="width:160px; vertical-align:top; padding-right:12px;">
+        <a target="_blank" href="https://medium.com/@shalonfernando52/wso2-api-manager-solving-api-calamity-in-modern-enterprises-6fe457001cb0">
+          <img src="./Assets/0.jpg" alt="WSO2 API Manager" style="width:150px; height:auto; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.25);" />
+        </a>
+      </td>
+      <td style="vertical-align:top;">
+        <a target="_blank" href="https://medium.com/@shalonfernando52/wso2-api-manager-solving-api-calamity-in-modern-enterprises-6fe457001cb0" style="text-decoration:none; color:inherit;">
+          <strong style="font-size:18px;">WSO2 API Manager — Solving API Calamity in Modern Enterprises</strong>
+        </a>
+        <div style="color:#8b8b8b; font-size:13px; margin-top:6px;">Read on Medium</div>
+        <!-- Optional short excerpt could go here -->
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 

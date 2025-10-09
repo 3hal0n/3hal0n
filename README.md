@@ -57,6 +57,12 @@ P.S. Tap the image to view my full portfolio
 
 ---
 
+## 🏆 Holopin Board
+
+[![@3hal0n's Holopin board](https://holopin.me/3hal0n)](https://holopin.io/@3hal0n)
+
+---
+
 ### Latest Blog posts:
 
 <div style="margin-top:8px;">

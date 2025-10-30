@@ -1,17 +1,7 @@
-# Hi there, I'm Shalon Fernando
-Software Engineer | Full-Stack Developer | AI Enthusiast
-B.Sc. (Hons) in Information Technology, Specializing in Software Engineering  
-3rd Year Undergraduate at SLIIT
----
-## 🧠 About Me
-- Full-stack developer with hands-on experience in Java, Spring Boot, MERN stack, Python, and cloud platforms
-- Strong foundation in software engineering principles and agile development
-- Interested in AI, machine learning, and automation
-- Contributor to open-source projects and tech communities
-- Always learning and building new things
-- Contact: [shalonfernando52@gmail.com](mailto:shalonfernando52@gmail.com)
-- [View my Resume (PDF)](./Assets/ShalonFernandoResume.pdf)
----
+# Hi there, I'm Shalon Fernando 
+
+Full-stack Software Engineer Intern | AI/ML Engineer | AI Enthusiast
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -33,6 +23,28 @@ B.Sc. (Hons) in Information Technology, Specializing in Software Engineering
 P.S. Tap the image to view my full portfolio
 
 ---
+## 🧠 About Me
+
+I build production-ready web and mobile applications and explore practical AI/ML solutions. I’m currently a 3rd-year B.Sc. (Hons) IT undergraduate at SLIIT, specializing in Software Engineering.
+
+**Currently:** Full-stack Software Engineer Intern at [Zenvora](https://www.zenvoratechnologies.com/index.html)
+
+Core skills
+- Languages: Java, C++, Python, JavaScript/TypeScript, PHP, C#
+- Frameworks & libraries: Spring Boot, React, Node.js/Express, React Native, FastAPI
+- Cloud & tooling: Docker, Git, CI/CD, AWS
+- Databases: MySQL, Microsoft SQL Server, MongoDB
+
+Selected highlights
+- Built full‑stack applications using Spring Boot + React and deployed them to cloud platforms
+- Published a technical article on WSO2 API Manager (see Latest Blog posts)
+- Active in open-source contributions; badges shown in the Holopin board
+
+Contact & resume
+- Email: [shalonfernando52@gmail.com](mailto:shalonfernando52@gmail.com)
+- Resume: [View my Resume (PDF)](./Assets/ShalonFernandoResume.pdf)
+---
+
 ## 🛠️ Languages and Tools
 
 <p align="left">

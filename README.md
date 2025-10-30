@@ -1,4 +1,3 @@
-
 # Hi there, I'm Shalon Fernando
 
 Software Engineer | Full-Stack Developer | AI Enthusiast
@@ -9,18 +8,6 @@ B.Sc. (Hons) in Information Technology, Specializing in Software Engineering
 Passionate about building scalable web, mobile, and intelligent systems. Experienced in modern frameworks and cloud technologies.
 
 ---
-
-# Check out my space themed Portfolio
-<p align="center">
-  <a href="https://shalon.vercel.app/">
-    <img src="./Assets/new-banner.png" alt="Portfolio Banner" width="70%" />
-  </a>
-</p>
-P.S. Tap the image to view my full portfolio
-
----
-
-
 ## 🧠 About Me
 
 - Full-stack developer with hands-on experience in Java, Spring Boot, MERN stack, Python, and cloud platforms
@@ -70,7 +57,15 @@ P.S. Tap the image to view my full portfolio
 [![@3hal0n's Holopin board](https://holopin.me/3hal0n)](https://holopin.io/@3hal0n)
 
 ---
+# Check out my space themed Portfolio
+<p align="center">
+  <a href="https://shalon.vercel.app/">
+    <img src="./Assets/new-banner.png" alt="Portfolio Banner" width="70%" />
+  </a>
+</p>
+P.S. Tap the image to view my full portfolio
 
+---
 ### Latest Blog posts:
 
 <div style="margin-top:8px;">

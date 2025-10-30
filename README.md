@@ -27,7 +27,7 @@ Contact: [shalonfernando52@gmail.com](mailto:shalonfernando52@gmail.com) • [Re
 
 ## 🏅 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=3hal0n&title=Stargazers,Forks,Issues,License,Share&theme=onedark&margin-w=15&margin-h=15&column=-1&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=3hal0n&theme=onedark&column=-1&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 # Check out my space themed Portfolio

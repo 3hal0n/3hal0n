@@ -1,7 +1,12 @@
+
 # Hi there, I'm Shalon Fernando
 
-3rd Year 1st Semester undergraduate at SLIIT<br />
-B.Sc. Hons. in Information Technology Specializing in Software Engineering 
+Software Engineer | Full-Stack Developer | AI Enthusiast
+
+B.Sc. (Hons) in Information Technology, Specializing in Software Engineering  
+3rd Year Undergraduate at SLIIT
+
+Passionate about building scalable web, mobile, and intelligent systems. Experienced in modern frameworks and cloud technologies.
 
 ---
 
@@ -15,13 +20,16 @@ P.S. Tap the image to view my full portfolio
 
 ---
 
+
 ## 🧠 About Me
 
-- Full-stack developer building web, mobile, and intelligent systems
-- Tech Stack: Spring boot, Java, Kotlin, Python, PHP, MERN, HTML/CSS  
-- Always learning and building  
-- Reach me at: [shalonfernando52@gmail.com](mailto:shalonfernando52@gmail.com)
-- Check out my cv [View my Resume (PDF)](./Assets/ShalonFernandoResume.pdf)
+- Full-stack developer with hands-on experience in Java, Spring Boot, MERN stack, Python, and cloud platforms
+- Strong foundation in software engineering principles and agile development
+- Interested in AI, machine learning, and automation
+- Contributor to open-source projects and tech communities
+- Always learning and building new things
+- Contact: [shalonfernando52@gmail.com](mailto:shalonfernando52@gmail.com)
+- [View my Resume (PDF)](./Assets/ShalonFernandoResume.pdf)
 
 ---
 

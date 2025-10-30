@@ -2,13 +2,9 @@
 
 ## 🧠 About Me
 
+B.Sc. (Hons) in Information Technology, Specializing in Software Engineering 3rd Year Undergraduate at SLIIT
 I build production-ready web and mobile apps and practical AI/ML solutions.  
 **Currently:** Full-stack Software Engineer Intern at [Zenvora](https://www.zenvoratechnologies.com/index.html)
-
-Core skills — Java • C++ • Python • JavaScript/TypeScript • PHP • C#  
-Frameworks — Spring Boot • React • Node.js/Express • React Native • FastAPI  
-Cloud & tools — Docker • Git • CI/CD • AWS  
-Databases — MySQL • Microsoft SQL Server • MongoDB
 
 Contact: [shalonfernando52@gmail.com](mailto:shalonfernando52@gmail.com) • [Resume (PDF)](./Assets/ShalonFernandoResume.pdf)
 
@@ -20,6 +16,7 @@ Contact: [shalonfernando52@gmail.com](mailto:shalonfernando52@gmail.com) • [Re
   <img src="https://github-readme-stats.vercel.app/api?username=3hal0n&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3hal0n&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </div>
+
 ---
 
 ## 🏆 Holopin Board

@@ -1,6 +1,18 @@
 # Hi there, I'm Shalon Fernando 
 
-Full-stack Software Engineer Intern | AI/ML Engineer | AI Enthusiast
+## 🧠 About Me
+
+I build production-ready web and mobile apps and practical AI/ML solutions.  
+**Currently:** Full-stack Software Engineer Intern at [Zenvora](https://www.zenvoratechnologies.com/index.html)
+
+Core skills — Java • C++ • Python • JavaScript/TypeScript • PHP • C#  
+Frameworks — Spring Boot • React • Node.js/Express • React Native • FastAPI  
+Cloud & tools — Docker • Git • CI/CD • AWS  
+Databases — MySQL • Microsoft SQL Server • MongoDB
+
+Contact: [shalonfernando52@gmail.com](mailto:shalonfernando52@gmail.com) • [Resume (PDF)](./Assets/ShalonFernandoResume.pdf)
+
+---
 
 ## 📊 GitHub Stats
 
@@ -9,6 +21,7 @@ Full-stack Software Engineer Intern | AI/ML Engineer | AI Enthusiast
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3hal0n&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </div>
 ---
+
 ## 🏆 Holopin Board
 
 [![@3hal0n's Holopin board](https://holopin.me/3hal0n)](https://holopin.io/@3hal0n)
@@ -22,27 +35,6 @@ Full-stack Software Engineer Intern | AI/ML Engineer | AI Enthusiast
 </p>
 P.S. Tap the image to view my full portfolio
 
----
-## 🧠 About Me
-
-I build production-ready web and mobile applications and explore practical AI/ML solutions. I’m currently a 3rd-year B.Sc. (Hons) IT undergraduate at SLIIT, specializing in Software Engineering.
-
-**Currently:** Full-stack Software Engineer Intern at [Zenvora](https://www.zenvoratechnologies.com/index.html)
-
-Core skills
-- Languages: Java, C++, Python, JavaScript/TypeScript, PHP, C#
-- Frameworks & libraries: Spring Boot, React, Node.js/Express, React Native, FastAPI
-- Cloud & tooling: Docker, Git, CI/CD, AWS
-- Databases: MySQL, Microsoft SQL Server, MongoDB
-
-Selected highlights
-- Built full‑stack applications using Spring Boot + React and deployed them to cloud platforms
-- Published a technical article on WSO2 API Manager (see Latest Blog posts)
-- Active in open-source contributions; badges shown in the Holopin board
-
-Contact & resume
-- Email: [shalonfernando52@gmail.com](mailto:shalonfernando52@gmail.com)
-- Resume: [View my Resume (PDF)](./Assets/ShalonFernandoResume.pdf)
 ---
 
 ## 🛠️ Languages and Tools

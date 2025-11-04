@@ -17,7 +17,7 @@ Contact: [shalonfernando52@gmail.com](mailto:shalonfernando52@gmail.com) • [Re
 
 ---
 
-## 🏆 Holopin Board
+## 🏆 Holopin Badges
 
 [![@3hal0n's Holopin board](https://holopin.me/3hal0n)](https://holopin.io/@3hal0n)
 #

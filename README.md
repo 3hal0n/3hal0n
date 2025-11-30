@@ -14,12 +14,11 @@ Contact: [shalonfernando52@gmail.com](mailto:shalonfernando52@gmail.com) • [Re
   <img src="https://github-readme-stats.vercel.app/api?username=3hal0n&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3hal0n&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </div> 
+
  <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=3ha10n&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800&cache_bust=2" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ha10n&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </div>  -->
-
----
 
 ## 🏆 Holopin Badges
 

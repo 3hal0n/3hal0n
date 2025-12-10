@@ -2,7 +2,7 @@
 
 B.Sc. (Hons) in Information Technology, Specializing in Software Engineering 3rd Year Undergraduate at SLIIT
 I build production ready web and mobile apps and practical AI/ML solutions.  
-**Currently:** Full-stack Software Engineer Intern at [Zenvora](https://www.zenvoratechnologies.com/index.html)
+**Currently:** Frontend Software Engineer Intern at [ClusterX](https://clusterx.io/)
 
 Contact: [shalonfernando52@gmail.com](mailto:shalonfernando52@gmail.com) • [Resume (PDF)](./Assets/ShalonFernandoResume.pdf)
 

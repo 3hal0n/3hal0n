@@ -15,10 +15,10 @@ I build production ready web and mobile apps and practical AI/ML solutions.
   <img src="https://github-readme-stats-dun-ten-10.vercel.app/api/top-langs?username=3hal0n&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" width="48%" alt="Shalon's Top Languages" />
 </div>
 
-## Holopin Badges
+##  Holopin Badges
 
 [![@3hal0n's Holopin board](https://holopin.me/3hal0n)](https://holopin.io/@3hal0n)
-#
+
 ---
 
 ## GitHub Trophies

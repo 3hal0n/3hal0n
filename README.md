@@ -7,7 +7,7 @@ I build production ready web and mobile apps and practical AI/ML solutions.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-dun-ten-10.vercel.app/api?username=3hal0n&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" width="48%" alt="Shalon's Stats" />
@@ -15,13 +15,13 @@ I build production ready web and mobile apps and practical AI/ML solutions.
   <img src="https://github-readme-stats-dun-ten-10.vercel.app/api/top-langs?username=3hal0n&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" width="48%" alt="Shalon's Top Languages" />
 </div>
 
-## 🏆 Holopin Badges
+## Holopin Badges
 
 [![@3hal0n's Holopin board](https://holopin.me/3hal0n)](https://holopin.io/@3hal0n)
 #
 ---
 
-## 🏅 GitHub Trophies
+## GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=3hal0n&theme=onedark&column=-1&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -36,7 +36,7 @@ P.S. Tap the image to view my full portfolio
 
 ---
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <p align="left">
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>

@@ -10,9 +10,9 @@ I build production ready web and mobile apps and practical AI/ML solutions.
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-dun-ten-10.vercel.app/api?username=3hal0n&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true" width="48%" alt="Shalon's Stats" />
-  
-  <img src="https://github-readme-stats-dun-ten-10.vercel.app/api/top-langs?username=3hal0n&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true" width="48%" alt="Shalon's Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=3hal0n&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" width="48%" alt="Shalon's Stats" />
+   
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=3hal0n&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true" width="48%" alt="Shalon's Top Languages" />
 </div>
 
 ##  Holopin Badges

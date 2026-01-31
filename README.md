@@ -3,7 +3,7 @@
 B.Sc. (Hons) in Information Technology, Specializing in Software Engineering 3rd Year Undergraduate at SLIIT<br />
 I build production ready web and mobile apps and practical AI/ML solutions.  
 **Currently:** Frontend Software Engineer Intern at [ClusterX](https://clusterx.io/)<br />
-**Contact:** [shalonfernando52@gmail.com](mailto:shalonfernando52@gmail.com) • [Resume (PDF)](./Assets/ShalonFernandoResume.pdf)
+**Contact:** [shalonfernando52@gmail.com](mailto:shalonfernando52@gmail.com)  • [Resume (PDF)](./Assets/ShalonFernandoResume.pdf)
 
 ---
 

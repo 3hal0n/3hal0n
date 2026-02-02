@@ -26,13 +26,8 @@ I build production ready web and mobile apps and practical AI/ML solutions.
 [![trophy](https://github-profile-trophy.vercel.app/?username=3hal0n&theme=onedark&column=-1&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-# Check out my space themed Portfolio
-<p align="center">
-  <a href="https://shalon.vercel.app/">
-    <img src="./Assets/new-banner.png" alt="Portfolio Banner" width="70%" />
-  </a>
-</p>
-P.S. Tap the image to view my full portfolio
+# Check out my Portfolio 
+<a href="shalondev.vercel.app">
 
 ---
 

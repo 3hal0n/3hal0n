@@ -27,7 +27,9 @@ I build production ready web and mobile apps and practical AI/ML solutions.
 
 ---
 # Check out my Portfolio 
-<a href="shalondev.vercel.app">
+
+[Visit my portfolio](https://shalondev.vercel.app)
+
 
 ---
 

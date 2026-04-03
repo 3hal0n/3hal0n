@@ -23,7 +23,7 @@ I build production ready web and mobile apps and practical AI/ML solutions.
 
 ## GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=3hal0n&theme=onedark&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.ryglcloud.net/?username=3hal0n&theme=onedark&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 # Check out my Portfolio 

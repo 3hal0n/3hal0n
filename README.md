@@ -73,9 +73,3 @@ I build production ready web and mobile apps and practical AI/ML solutions.
     </tr>
   </table>
 </div>
-
-
-
-
-
-

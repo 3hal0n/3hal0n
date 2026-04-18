@@ -56,6 +56,24 @@ I build production ready web and mobile apps and practical AI/ML solutions.
 ---
 ### Latest Blog posts:
 <div style="margin-top:8px;">
+  <table style="width:100%; border-collapse:collapse; margin-top:8px;">
+    <tr>
+      <td style="width:160px; vertical-align:top; padding-right:12px;">
+        <a target="_blank" href="https://medium.com/@shalonfernando52/i-built-a-fraud-detection-system-that-explains-itself-heres-what-i-learned-bcd5e522c6a7">
+          <img src="./Assets/0.jpg" alt="Fraud Detection System" style="width:150px; height:auto; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.25);" />
+        </a>
+      </td>
+      <td style="vertical-align:top;">
+        <a target="_blank" href="https://medium.com/@shalonfernando52/i-built-a-fraud-detection-system-that-explains-itself-heres-what-i-learned-bcd5e522c6a7" style="text-decoration:none; color:inherit;">
+          <strong style="font-size:18px;">I built a fraud-detection system that explains itself — here's what I learned</strong>
+        </a>
+        <div style="color:#8b8b8b; font-size:13px; margin-top:6px;">Read on Medium</div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="margin-top:8px;">
   <table style="width:100%; border-collapse:collapse;">
     <tr>
       <td style="width:160px; vertical-align:top; padding-right:12px;">
@@ -73,3 +91,5 @@ I build production ready web and mobile apps and practical AI/ML solutions.
     </tr>
   </table>
 </div>
+
+

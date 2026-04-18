@@ -57,7 +57,7 @@ I build production ready web and mobile apps and practical AI/ML solutions.
     <tr>
       <td style="width:160px; vertical-align:top; padding-right:12px;">
         <a target="_blank" href="https://medium.com/@shalonfernando52/i-built-a-fraud-detection-system-that-explains-itself-heres-what-i-learned-bcd5e522c6a7">
-          <img src="./Assets/dashboard.png" alt="Fraud Detection System" style="width:150px; height:auto; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.25);" />
+          <img src="./Assets/fraudguardpost.png" alt="Fraud Detection System" style="width:150px; height:auto; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.25);" />
         </a>
       </td>
       <td style="vertical-align:top;">

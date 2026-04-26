@@ -26,9 +26,6 @@ I build production ready web and mobile apps and practical AI/ML solutions.
 [![trophy](https://trophy.ryglcloud.net/?username=3hal0n&theme=onedark&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-# [Check out my Portfolio](https://www.shalon.web.lk/)
-
----
 
 ## Languages and Tools
 

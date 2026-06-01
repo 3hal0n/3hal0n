@@ -59,7 +59,7 @@ I build production ready web and mobile apps and practical AI/ML solutions.
       </td>
       <td style="vertical-align:top;">
         <a target="_blank" href="https://medium.com/@shalonfernando52/i-built-a-fraud-detection-system-that-explains-itself-heres-what-i-learned-bcd5e522c6a7" style="text-decoration:none; color:inherit;">
-          <strong style="font-size:18px;">I built a fraud-detection system that explains itself — here's what I learned</strong>
+          <strong style="font-size:18px;">I built a fraud-detection system that explains itself - here's what I learned</strong>
         </a>
         <div style="color:#8b8b8b; font-size:13px; margin-top:6px;">Read on Medium</div>
       </td>
@@ -77,7 +77,7 @@ I build production ready web and mobile apps and practical AI/ML solutions.
       </td>
       <td style="vertical-align:top;">
         <a target="_blank" href="https://medium.com/@shalonfernando52/wso2-api-manager-solving-api-calamity-in-modern-enterprises-6fe457001cb0" style="text-decoration:none; color:inherit;">
-          <strong style="font-size:18px;">WSO2 API Manager — Solving API Calamity in Modern Enterprises</strong>
+          <strong style="font-size:18px;">WSO2 API Manager - Solving API Calamity in Modern Enterprises</strong>
         </a>
         <div style="color:#8b8b8b; font-size:13px; margin-top:6px;">Read on Medium</div>
         <!-- Optional short excerpt could go here -->
